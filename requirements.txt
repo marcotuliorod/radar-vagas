@@ -1,0 +1,15 @@
+Django>=5.0,<6.0
+celery>=5.3,<6.0
+redis>=5.0
+psycopg2-binary>=2.9
+dj-database-url>=2.1
+anthropic>=0.40
+requests>=2.31
+python-dotenv>=1.0
+gspread>=6.0
+google-auth>=2.29
+
+# dev/test
+pytest>=8.0
+pytest-django>=4.8
+responses>=0.25

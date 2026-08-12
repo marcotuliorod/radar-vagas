@@ -1,0 +1,12 @@
+[
+  {
+    "id": "abc-123",
+    "text": "Product Owner Pleno",
+    "categories": {"location": "Remoto - Brasil", "team": "Produto", "commitment": "Full-time"},
+    "workplaceType": "remote",
+    "createdAt": 1754697600000,
+    "hostedUrl": "https://jobs.lever.co/exemploco/abc-123",
+    "applyUrl": "https://jobs.lever.co/exemploco/abc-123/apply",
+    "descriptionPlain": "Descrição da vaga de Product Owner Pleno em texto plano."
+  }
+]

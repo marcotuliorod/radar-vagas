@@ -1,0 +1,214 @@
+{
+  "_readme": "Fonte: export oficial do LinkedIn (Configurações → Obter uma cópia dos seus dados), normalizado conforme RF-01. Nenhuma métrica ou dado numérico foi inventado: onde o currículo original não trazia número, os campos 'metrica'/'impacto' ficam vazios (RF-06.2 / RF-07.4). 'preferencias' foi deixado em branco por decisão do usuário — editar manualmente antes de usar o Radar em produção (RF-01.5).",
+  "identidade": {
+    "nome": "Marco Túlio Rodrigues de Medeiros",
+    "titulo": "Product Owner | Product Manager | Squad Lead",
+    "localidade": "Belo Horizonte, Minas Gerais, Brasil",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/marcotuliorod",
+      "email": "marcotuliorod@gmail.com",
+      "telefone": "31998847215"
+    }
+  },
+  "resumo_base": "Product Owner com mais de 15 anos de experiência em Tecnologia da Informação, boa parte dedicados ao setor financeiro (bancos digitais, corretoras e empresas de grande porte). Visão completa do ciclo de vida de produtos, da concepção à entrega, com foco em gerar valor ao negócio e entregar soluções que atendam às necessidades dos clientes. Destaque para gestão de backlog, gestão de stakeholders, tomada de decisão orientada a dados, planejamento de releases/roadmap, liderança de times multidisciplinares e gestão de conflitos.",
+  "experiencias": [
+    {
+      "id": "exp_01",
+      "empresa": "Cactus Gaming",
+      "cargo": "Product Owner Senior",
+      "inicio": "2026-02",
+      "fim": "2026-08",
+      "contexto": "Belo Horizonte, Minas Gerais, Brasil",
+      "bullets": [
+        {"id": "b01", "texto": "Definição da visão, estratégia e roadmap do produto, com base em análises de mercado, tendências tecnológicas e necessidades dos clientes.", "skills": ["planejamento de releases e roadmap", "visão de produto"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b02", "texto": "Gestão e priorização do backlog, garantindo foco nas iniciativas de maior valor para o negócio e melhor experiência para os usuários.", "skills": ["gestão de backlog"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b03", "texto": "Planejamento e coordenação de releases, assegurando entregas de qualidade, dentro dos prazos estabelecidos e alinhadas aos objetivos estratégicos.", "skills": ["planejamento de releases e roadmap", "gestão de projetos complexos"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b04", "texto": "Tradução das necessidades de negócio em histórias de usuário claras e bem estruturadas, com critérios de aceitação definidos.", "skills": ["gestão de backlog", "redação"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b05", "texto": "Gestão e alinhamento contínuo com stakeholders internos e externos, promovendo comunicação transparente sobre a evolução do produto e suas prioridades.", "skills": ["gestão de stakeholders"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b06", "texto": "Acompanhamento de indicadores e métricas de desempenho (adoção, engajamento, receita e KPIs de negócio), apoiando a tomada de decisões orientadas por dados.", "skills": ["tomada de decisão orientada a dados"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b07", "texto": "Facilitação das cerimônias ágeis (Sprint Planning, Refinement, Review e Retrospective), promovendo colaboração entre equipes multidisciplinares e apoiando a tomada de decisões sobre o produto.", "skills": ["metodologias ágeis (scrum/kanban)", "liderança de times multidisciplinares"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b08", "texto": "Garantia da qualidade das entregas por meio da validação contínua com usuários, testes de aceitação e colaboração próxima com equipes de QA e desenvolvimento.", "skills": ["testes e homologação"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b09", "texto": "Atuação como elo entre áreas de negócio, tecnologia e operações, assegurando que as soluções entregues atendam às necessidades dos clientes e aos objetivos estratégicos da empresa.", "skills": ["gestão de stakeholders"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b10", "texto": "Identificação de oportunidades de melhoria contínua, impulsionando inovação, eficiência operacional e geração de valor para o negócio.", "skills": ["visão de produto"], "metrica": "", "impacto": "", "peso_default": 2}
+      ]
+    },
+    {
+      "id": "exp_02",
+      "empresa": "Terra Investimentos",
+      "cargo": "Product Owner",
+      "inicio": "2021-05",
+      "fim": "2025-10",
+      "contexto": "São Paulo, São Paulo, Brasil — corretora de investimentos.",
+      "bullets": [
+        {"id": "b11", "texto": "Responsável pelos processos de melhoria contínua do produto, reconhecendo oportunidades de negócios.", "skills": ["visão de produto"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b12", "texto": "Gerenciar backlog.", "skills": ["gestão de backlog"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b13", "texto": "Gerenciar riscos e problemas, garantindo a qualidade dos produtos.", "skills": ["gestão de projetos complexos"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b14", "texto": "Responsável pela liderança do time de desenvolvimento para dimensionamento e estimativa.", "skills": ["liderança de times multidisciplinares"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b15", "texto": "Criar e manter roadmaps robustos e backlogs de produtos para criar features/epics e histórias de usuários.", "skills": ["planejamento de releases e roadmap", "gestão de backlog"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b16", "texto": "Participar de reuniões scrum diárias para resolver qualquer bloqueio, responder perguntas sobre histórias, e validar histórias \"finalizadas\".", "skills": ["metodologias ágeis (scrum/kanban)"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b17", "texto": "Informar regularmente o status aos stakeholders por meio de demonstrações do produto, bem como os riscos/oportunidades.", "skills": ["gestão de stakeholders"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b18", "texto": "Auxiliar na análise e pesquisa de mercado quando necessário para definir um produto e ajudar o cliente.", "skills": ["tomada de decisão orientada a dados"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b19", "texto": "Desenvolver documentação necessária para o desenvolvimento de sistemas.", "skills": ["redação"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b20", "texto": "Melhoria e manutenção no setor de tecnologia de investimentos, através da implementação de novas funcionalidades e sustentação da estrutura da corretora.", "skills": ["visão de produto", "gestão de projetos complexos"], "metrica": "", "impacto": "Sustentação contínua da plataforma de tecnologia de investimentos da corretora.", "peso_default": 3}
+      ]
+    },
+    {
+      "id": "exp_03",
+      "empresa": "Banco Inter",
+      "cargo": "Analista de negócios",
+      "inicio": "2020-03",
+      "fim": "2020-08",
+      "contexto": "Belo Horizonte, Minas Gerais.",
+      "bullets": [
+        {"id": "b21", "texto": "Elicitação de requisitos e análise de negócios garantindo as entregas, atuando junto à área de negócios na definição das soluções.", "skills": ["análise de negócios"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b22", "texto": "Responsável por garantir a qualidade das entregas: desenvolvo casos de teste e realizo a homologação junto aos clientes, além de acompanhar a geração de evidências.", "skills": ["testes e homologação"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b23", "texto": "Realizar consultas em bancos de dados para análise das informações apresentadas, garantindo a veracidade das informações e gerando indicadores que tragam valor às decisões de negócio.", "skills": ["sql / consultas a banco de dados", "tomada de decisão orientada a dados"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b24", "texto": "Desenhar soluções usando ferramentas de modelagem.", "skills": ["arquitetura de sistemas"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b25", "texto": "Acompanhar as entregas dos projetos definindo prazos e prioridades de backlog.", "skills": ["gestão de backlog", "gestão de projetos complexos"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b26", "texto": "Trabalho com metodologia ágil, com squads definidos e uso de Kanban para acompanhamento das atividades.", "skills": ["metodologias ágeis (scrum/kanban)"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b27", "texto": "Remover impedimentos das atividades e manter o time de desenvolvimento com a autonomia necessária para o desenvolvimento das soluções propostas.", "skills": ["liderança de times multidisciplinares"], "metrica": "", "impacto": "", "peso_default": 2}
+      ]
+    },
+    {
+      "id": "exp_04",
+      "empresa": "M2DB Simplified IT",
+      "cargo": "Analista de negócios sênior",
+      "inicio": "2019-05",
+      "fim": "2020-02",
+      "contexto": "Belo Horizonte e Região, Brasil.",
+      "bullets": [
+        {"id": "b28", "texto": "Responsável por garantir a qualidade das entregas desenvolvendo casos de teste e realizando a homologação junto aos clientes.", "skills": ["testes e homologação"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b29", "texto": "Realizar consultas avançadas em bancos de dados para recuperar informações de negócios.", "skills": ["sql / consultas a banco de dados"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b30", "texto": "Identificar e entender possíveis falhas nos processos.", "skills": ["análise de negócios"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b31", "texto": "Elaborar soluções com base em dados para os problemas de negócio.", "skills": ["tomada de decisão orientada a dados"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b32", "texto": "Analisar as informações apresentadas garantindo a veracidade, gerando indicadores e insights para o negócio.", "skills": ["tomada de decisão orientada a dados"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b33", "texto": "Acompanhar as entregas dos projetos definindo prazos e prioridades de backlog, garantindo que datas fossem respeitadas conforme os prazos acordados.", "skills": ["gestão de backlog", "gestão de projetos complexos"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b34", "texto": "Remover impedimentos das atividades, mantendo o time de desenvolvimento com a autonomia necessária para o desenvolvimento das soluções propostas.", "skills": ["liderança de times multidisciplinares"], "metrica": "", "impacto": "", "peso_default": 2}
+      ]
+    },
+    {
+      "id": "exp_05",
+      "empresa": "Banco Inter",
+      "cargo": "Analista de negócios",
+      "inicio": "2018-11",
+      "fim": "2019-04",
+      "contexto": "Belo Horizonte.",
+      "bullets": [
+        {"id": "b35", "texto": "Extrair e estruturar dados de fontes primárias e secundárias.", "skills": ["sql / consultas a banco de dados"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b36", "texto": "Usar ferramentas e estatística para interpretar conjuntos de dados.", "skills": ["tomada de decisão orientada a dados"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b37", "texto": "Preparar relatórios para liderança executiva que comuniquem efetivamente tendências, padrões e previsões usando dados relevantes.", "skills": ["redação", "tomada de decisão orientada a dados"], "metrica": "", "impacto": "", "peso_default": 3},
+        {"id": "b38", "texto": "Colaborar com áreas de negócio e líderes organizacionais para identificar oportunidades de melhoria de processos, observando as políticas de governança de dados.", "skills": ["gestão de stakeholders"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b39", "texto": "Criar documentação apropriada que permita que as partes interessadas entendam as etapas do processo de análise de dados.", "skills": ["redação"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b40", "texto": "Coletar, compilar, analisar, corrigir e interpretar dados de diversas fontes, garantindo a manutenção da base de dados.", "skills": ["sql / consultas a banco de dados"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b41", "texto": "Criação de dashboards para uso dos times, visando à tomada de decisão baseada em dados.", "skills": ["tomada de decisão orientada a dados"], "metrica": "", "impacto": "", "peso_default": 3}
+      ]
+    },
+    {
+      "id": "exp_06",
+      "empresa": "Banco BMG",
+      "cargo": "Analista de sistemas",
+      "inicio": "2015-12",
+      "fim": "2018-10",
+      "contexto": "Belo Horizonte e Região, Brasil. Sistemas em tecnologia .NET (MVC) com banco SQL Server e Sybase.",
+      "bullets": [
+        {"id": "b42", "texto": "Atuei como analista de sistemas alocado no Banco BMG desenvolvendo soluções corretivas e evolutivas para os sistemas de internet banking, seguradora e outros sistemas financeiros.", "skills": [".net / desenvolvimento web", "arquitetura de sistemas"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b43", "texto": "Desenvolvendo rotinas para banco de dados e execução de testes.", "skills": ["sql / consultas a banco de dados", "testes e homologação"], "metrica": "", "impacto": "", "peso_default": 2}
+      ]
+    },
+    {
+      "id": "exp_07",
+      "empresa": "Engineering Ingegneria Informatica Spa",
+      "cargo": "System Analyst",
+      "inicio": "2015-01",
+      "fim": "2015-08",
+      "contexto": "Belo Horizonte e Região, Brasil.",
+      "bullets": [
+        {"id": "b44", "texto": "Trabalhei com sistema MES (Sistema de Manufatura e Produção) para a Fiat, incluindo treinamento e criação de soluções por 1 mês em Turim, Itália, com tecnologia DotNet e banco de dados SQL Server.", "skills": [".net / desenvolvimento web"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b45", "texto": "Responsável pela análise e criação de soluções.", "skills": ["arquitetura de sistemas"], "metrica": "", "impacto": "", "peso_default": 1}
+      ]
+    },
+    {
+      "id": "exp_08",
+      "empresa": "Accenture",
+      "cargo": "Senior Analyst",
+      "inicio": "2014-01",
+      "fim": "2015-01",
+      "contexto": "Belo Horizonte e Região, Brasil.",
+      "bullets": [
+        {"id": "b46", "texto": "Trabalhei com sistemas MES e com a integração SAP usando SAP MII.", "skills": ["arquitetura de sistemas"], "metrica": "", "impacto": "", "peso_default": 2},
+        {"id": "b47", "texto": "Responsável pelo relacionamento com os clientes realizando a arquitetura das soluções, análise, desenvolvimento, testes e propostas de melhorias para os sistemas.", "skills": ["arquitetura de sistemas", "gestão de stakeholders"], "metrica": "", "impacto": "", "peso_default": 2}
+      ]
+    },
+    {
+      "id": "exp_09",
+      "empresa": "Grupo AeC",
+      "cargo": "Desenvolvedor de Sistemas",
+      "inicio": "2013-01",
+      "fim": "2013-12",
+      "contexto": "",
+      "bullets": [
+        {"id": "b48", "texto": "Desenvolvedor pleno Web Asp.Net.", "skills": [".net / desenvolvimento web"], "metrica": "", "impacto": "", "peso_default": 1}
+      ]
+    },
+    {
+      "id": "exp_10",
+      "empresa": "attps Informática",
+      "cargo": "Analista de Sistemas",
+      "inicio": "2011-11",
+      "fim": "2012-09",
+      "contexto": "",
+      "bullets": [
+        {"id": "b49", "texto": "Análise e desenvolvimento de sistemas em Power Builder, documentação e modelagem.", "skills": ["arquitetura de sistemas"], "metrica": "", "impacto": "", "peso_default": 1}
+      ]
+    },
+    {
+      "id": "exp_11",
+      "empresa": "S&A Sistemas e Automação Ltda",
+      "cargo": "Analista de Sistemas",
+      "inicio": "2011-01",
+      "fim": "2011-11",
+      "contexto": "Belo Horizonte.",
+      "bullets": [
+        {"id": "b50", "texto": "Análise e desenvolvimento de sistemas de WMS em Delphi, C++ e C#.", "skills": ["arquitetura de sistemas"], "metrica": "", "impacto": "", "peso_default": 1}
+      ]
+    }
+  ],
+  "skills": [
+    {"nome": "Gestão de backlog", "anos": 6, "nivel": "avançado", "evidencia": ["b02", "b04", "b12", "b15", "b25", "b33"]},
+    {"nome": "Gestão de stakeholders", "anos": 6, "nivel": "avançado", "evidencia": ["b05", "b09", "b17", "b38", "b47"]},
+    {"nome": "Planejamento de releases e roadmap", "anos": 6, "nivel": "avançado", "evidencia": ["b01", "b03", "b15"]},
+    {"nome": "Liderança de times multidisciplinares", "anos": 6, "nivel": "avançado", "evidencia": ["b07", "b14", "b27", "b34"]},
+    {"nome": "Tomada de decisão orientada a dados", "anos": 5, "nivel": "avançado", "evidencia": ["b06", "b18", "b23", "b31", "b32", "b36", "b37", "b41"]},
+    {"nome": "Metodologias ágeis (Scrum/Kanban)", "anos": 6, "nivel": "avançado", "evidencia": ["b07", "b16", "b26"]},
+    {"nome": "Visão de produto", "anos": 6, "nivel": "avançado", "evidencia": ["b01", "b10", "b11", "b20"]},
+    {"nome": "Gestão de projetos complexos", "anos": 6, "nivel": "avançado", "evidencia": ["b03", "b13", "b20", "b25", "b33"]},
+    {"nome": "Gestão de pessoas", "anos": 6, "nivel": "intermediário", "evidencia": ["b07", "b14", "b27"]},
+    {"nome": "Redação", "anos": 6, "nivel": "avançado", "evidencia": ["b04", "b19", "b37", "b39"]},
+    {"nome": "Análise de negócios", "anos": 2, "nivel": "avançado", "evidencia": ["b21", "b30"]},
+    {"nome": "Testes e homologação", "anos": 2, "nivel": "intermediário", "evidencia": ["b08", "b22", "b28", "b43"]},
+    {"nome": "SQL / consultas a banco de dados", "anos": 5, "nivel": "avançado", "evidencia": ["b23", "b29", "b35", "b40", "b43"]},
+    {"nome": "Arquitetura de sistemas", "anos": 5, "nivel": "intermediário", "evidencia": ["b24", "b42", "b45", "b46", "b47", "b49", "b50"]},
+    {"nome": ".NET / desenvolvimento web", "anos": 5, "nivel": "intermediário", "evidencia": ["b42", "b44", "b48"]},
+    {"nome": "Inglês", "anos": null, "nivel": "Full Professional", "evidencia": []},
+    {"nome": "Francês", "anos": null, "nivel": "Elementary", "evidencia": []}
+  ],
+  "formacao": [
+    {"instituicao": "Ietec Instituto de Educação Tecnológica", "curso": "Pós-graduação em Análise de Negócios e Processos", "inicio": "2018", "fim": "2018"},
+    {"instituicao": "Centro Universitário Una", "curso": "Análise de Sistemas", "inicio": "2005", "fim": "2010"}
+  ],
+  "certificacoes": [
+    "Kanban Systems Improvement",
+    "Kanban Management Professional",
+    "Kanban System Design"
+  ],
+  "idiomas": [
+    {"idioma": "Inglês", "nivel": "Full Professional"},
+    {"idioma": "Francês", "nivel": "Elementary"}
+  ],
+  "preferencias": {
+    "modelo_trabalho": [],
+    "faixa_salarial_min": null,
+    "localidades_aceitas": [],
+    "dealbreakers": []
+  }
+}

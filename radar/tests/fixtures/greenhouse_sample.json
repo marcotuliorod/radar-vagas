@@ -1,0 +1,21 @@
+{
+  "jobs": [
+    {
+      "id": 4020123,
+      "title": "Product Manager Senior",
+      "updated_at": "2026-08-10T12:00:00-03:00",
+      "first_published": "2026-08-09T09:00:00-03:00",
+      "location": {"name": "São Paulo, SP"},
+      "absolute_url": "https://boards.greenhouse.io/exemploco/jobs/4020123",
+      "content": "<p>Buscamos um Product Manager Senior para liderar o roadmap de pagamentos.</p>"
+    },
+    {
+      "id": 4020124,
+      "title": "Engenheiro de Dados Pleno",
+      "updated_at": "2026-08-10T08:00:00-03:00",
+      "location": {"name": "Remoto"},
+      "absolute_url": "https://boards.greenhouse.io/exemploco/jobs/4020124",
+      "content": "<p>Vaga para engenheiro de dados com experiência em Spark.</p>"
+    }
+  ]
+}

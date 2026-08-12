@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "id": 998877,
+      "name": "Product Owner Sênior",
+      "location": {"city": "Belo Horizonte", "state": "MG", "country": "Brasil"},
+      "type": "hybrid",
+      "publishedDate": "2026-08-07T00:00:00.000Z",
+      "description": "Descrição da vaga de Product Owner Sênior.",
+      "careerPageUrl": "https://exemploco.gupy.io/vagas/998877"
+    }
+  ]
+}
